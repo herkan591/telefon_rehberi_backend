@@ -1,0 +1,17 @@
+2022-06-05 19:30:54.3266|An unhandled exception has occurred while executing the request.
+2022-06-05 19:32:42.6390|An unhandled exception has occurred while executing the request.
+2022-06-05 19:36:35.8941|An unhandled exception has occurred while executing the request.
+2022-06-05 19:40:03.5058|An unhandled exception has occurred while executing the request.
+2022-06-05 19:48:14.6828|An unhandled exception has occurred while executing the request.
+2022-06-05 20:04:17.2170|HATA : Kullanıcı adı veya şifre yanlış!
+2022-06-05 20:21:51.4432|HATA : Kullanıcı adı veya şifre yanlış!
+2022-06-05 20:23:39.5626|HATA : Kullanıcı adı veya şifre yanlış!
+2022-06-05 23:37:21.5333|HATA : Validation failed: 
+ -- Name: Name cannot be blank! Severity: Error
+ -- Name: Name is required! Severity: Error
+ -- Surname: Surname is required! Severity: Error
+ -- CellPhone: CepTelefonu boş bırakılamaz! Severity: Error
+ -- CellPhone: Cep Telefonu gereklidir! Severity: Error
+2022-06-05 23:38:30.4754|HATA : Validation failed: 
+ -- CellPhone: Mobile Phone must be 11 digits! Severity: Error
+2022-06-05 23:40:20.8784|HATA : An error occurred while updating the entries. See the inner exception for details.

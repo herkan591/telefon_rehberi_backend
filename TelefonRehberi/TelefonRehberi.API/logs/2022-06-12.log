@@ -1,0 +1,7 @@
+2022-06-12 19:04:36.3021|ERROR : Refresh Token Not Found!
+2022-06-12 19:09:13.4387|HATA : Validation failed: 
+ -- Name: Name cannot be blank! Severity: Error
+ -- Name: Name is required! Severity: Error
+ -- Surname: Surname is required! Severity: Error
+ -- CellPhone: CepTelefonu boş bırakılamaz! Severity: Error
+ -- CellPhone: Cep Telefonu gereklidir! Severity: Error

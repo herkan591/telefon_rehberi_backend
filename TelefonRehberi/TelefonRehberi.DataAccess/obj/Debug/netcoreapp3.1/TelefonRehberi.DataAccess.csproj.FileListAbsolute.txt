@@ -1,0 +1,15 @@
+C:\Users\halil\source\repos\TelefonRehberi\TelefonRehberi.DataAccess\bin\Debug\netcoreapp3.1\TelefonRehberi.DataAccess.deps.json
+C:\Users\halil\source\repos\TelefonRehberi\TelefonRehberi.DataAccess\bin\Debug\netcoreapp3.1\TelefonRehberi.DataAccess.dll
+C:\Users\halil\source\repos\TelefonRehberi\TelefonRehberi.DataAccess\obj\Debug\netcoreapp3.1\TelefonRehberi.DataAccess.csprojAssemblyReference.cache
+C:\Users\halil\source\repos\TelefonRehberi\TelefonRehberi.DataAccess\obj\Debug\netcoreapp3.1\TelefonRehberi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\halil\source\repos\TelefonRehberi\TelefonRehberi.DataAccess\obj\Debug\netcoreapp3.1\TelefonRehberi.DataAccess.AssemblyInfo.cs
+C:\Users\halil\source\repos\TelefonRehberi\TelefonRehberi.DataAccess\bin\Debug\netcoreapp3.1\TelefonRehberi.DataAccess.runtimeconfig.json
+C:\Users\halil\source\repos\TelefonRehberi\TelefonRehberi.DataAccess\bin\Debug\netcoreapp3.1\TelefonRehberi.DataAccess.runtimeconfig.dev.json
+C:\Users\halil\source\repos\TelefonRehberi\TelefonRehberi.DataAccess\bin\Debug\netcoreapp3.1\TelefonRehberi.DataAccess.pdb
+C:\Users\halil\source\repos\TelefonRehberi\TelefonRehberi.DataAccess\bin\Debug\netcoreapp3.1\TelefonRehberi.Entities.dll
+C:\Users\halil\source\repos\TelefonRehberi\TelefonRehberi.DataAccess\bin\Debug\netcoreapp3.1\TelefonRehberi.Entities.pdb
+C:\Users\halil\source\repos\TelefonRehberi\TelefonRehberi.DataAccess\obj\Debug\netcoreapp3.1\TelefonRehberi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\TelefonRehberi\TelefonRehberi.DataAccess\obj\Debug\netcoreapp3.1\TelefonRehberi.DataAccess.csproj.CopyComplete
+C:\Users\halil\source\repos\TelefonRehberi\TelefonRehberi.DataAccess\obj\Debug\netcoreapp3.1\TelefonRehberi.DataAccess.dll
+C:\Users\halil\source\repos\TelefonRehberi\TelefonRehberi.DataAccess\obj\Debug\netcoreapp3.1\TelefonRehberi.DataAccess.pdb
+C:\Users\halil\source\repos\TelefonRehberi\TelefonRehberi.DataAccess\obj\Debug\netcoreapp3.1\TelefonRehberi.DataAccess.genruntimeconfig.cache

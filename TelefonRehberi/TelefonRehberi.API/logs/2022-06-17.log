@@ -1,0 +1,10 @@
+2022-06-17 03:28:30.6821|HATA : Validation failed: 
+ -- CellPhone: CellPhone must be 11 digits! Severity: Error
+2022-06-17 03:33:40.0185|ERROR : herkan591@hotmail.com already exist!
+2022-06-17 03:33:53.7690|ERROR : herkan591@gmail.com already exist!
+2022-06-17 03:34:03.2662|ERROR : Validation failed: 
+ -- Name: 'Name' boş olmamalı. Severity: Error
+ -- Surname: 'Surname' boş olmamalı. Severity: Error
+2022-06-17 03:35:44.0905|ERROR : Validation failed: 
+ -- RefreshToken: 'Refresh Token' boş olmamalı. Severity: Error
+ -- RefreshTokenEndDate: 'Refresh Token End Date' boş olmamalı. Severity: Error

@@ -1,0 +1,4 @@
+2022-06-16 20:55:15.5687|HATA : Validation failed: 
+ -- CellPhone: Mobile Phone must be 11 digits! Severity: Error
+2022-06-16 20:56:34.7418|HATA : Validation failed: 
+ -- CellPhone: CellPhone must be 11 digits! Severity: Error

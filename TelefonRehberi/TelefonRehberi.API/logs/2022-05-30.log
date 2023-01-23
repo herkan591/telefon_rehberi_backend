@@ -1,0 +1,1 @@
+2022-05-30 11:10:47.6202|HATA : An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseSqlServer' call.

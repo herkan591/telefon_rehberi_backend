@@ -1,0 +1,19 @@
+2022-06-01 11:03:39.0081|HATA : System.Collections.Generic.List`1[FluentValidation.Results.ValidationFailure]
+2022-06-01 11:05:22.1714|HATA : System.Collections.Generic.List`1[FluentValidation.Results.ValidationFailure]
+2022-06-01 11:21:04.6657|HATA :  - Ad boş bırakılamaz!
+2022-06-01 11:21:14.0004|HATA :  - Ad boş bırakılamaz! - Cep Telefonu 11 haneli olmalıdır!
+2022-06-01 11:21:44.3998|HATA :  - Ad boş bırakılamaz! - Soyad gereklidir! - Cep Telefonu 11 haneli olmalıdır!
+2022-06-01 11:34:15.0565|HATA : Validation failed: 
+ -- Ad: Ad boş bırakılamaz! Severity: Error
+2022-06-01 11:34:27.7018|HATA : Validation failed: 
+ -- Ad: Ad boş bırakılamaz! Severity: Error
+ -- CepTelefonu: Cep Telefonu 11 haneli olmalıdır! Severity: Error
+2022-06-01 11:34:36.4768|HATA : Validation failed: 
+ -- Ad: Ad boş bırakılamaz! Severity: Error
+ -- Soyad: Soyad gereklidir! Severity: Error
+ -- CepTelefonu: Cep Telefonu 11 haneli olmalıdır! Severity: Error
+2022-06-01 11:38:05.6449|HATA : Id can not be less than 1
+2022-06-01 11:39:28.6415|HATA : Validation failed: 
+ -- CepTelefonu: Cep Telefonu 11 haneli olmalıdır! Severity: Error
+2022-06-01 16:27:48.5860|HATA : Validation failed: 
+ -- CepTelefonu: Cep Telefonu 11 haneli olmalıdır! Severity: Error

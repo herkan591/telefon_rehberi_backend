@@ -1,0 +1,9 @@
+2022-06-11 18:23:04.9373|HATA : Validation failed: 
+ -- Name: Name cannot be blank! Severity: Error
+ -- Name: Name is required! Severity: Error
+ -- Surname: Surname is required! Severity: Error
+ -- CellPhone: CepTelefonu boş bırakılamaz! Severity: Error
+ -- CellPhone: Cep Telefonu gereklidir! Severity: Error
+2022-06-11 18:25:14.7799|ERROR : Refresh Token Not Found!
+2022-06-11 21:23:08.0870|ERROR : Validation failed: 
+ -- Password: 'Password' boş olmamalı. Severity: Error
