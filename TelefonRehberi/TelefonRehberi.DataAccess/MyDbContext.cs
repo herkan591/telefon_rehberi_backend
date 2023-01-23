@@ -14,7 +14,7 @@ namespace TelefonRehberi.DataAccess
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer("Server=DESKTOP-714ITSE\\SQLEXPRESS;Database=TelefonRehberiDb;uid=sa;pwd=1234");
+            optionsBuilder.UseSqlServer("your options");
         }
 
         public DbSet<Person> Persons { get; set; }
